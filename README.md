@@ -1,6 +1,2 @@
-# pruebaG
-hola uwu!
-Prueba usando la llave de itsoeh para 230110088.
-user and email.
-agent.
-wawawawa.
+# Prueba llaves ssh    
+Repositorio para probar las llaves ssh cada vez que sea necesario.    
